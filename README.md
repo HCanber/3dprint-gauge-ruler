@@ -1,4 +1,15 @@
+# Gauge Ruler
+
+[![Gauge Ruler](readme-content/gauge-ruler.jpg)](readme-content/gauge-ruler.jpg)
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]<br>[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+This is a 3D printable model of a simple 10×10 cm ruler.
+This repository contains the Fusion 360 file: [Download](https://raw.githubusercontent.com/HCanber/3dprint-gauge-ruler/main/GaugeRuler.f3d)
+
+### Printable files
+
+`stl` and `f3d` files are available on [Thingiverse](https://www.thingiverse.com/thing:6597794)
 
 ## License
 
